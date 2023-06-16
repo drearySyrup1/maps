@@ -562,6 +562,15 @@ const shops = [
   },
   {
     position: {
+      lat: 51.587162285309795, 
+      lng: -0.032417945317817304,
+    },
+    label: "Bite (10 AM)",
+    category: "Walthamstow",
+    id: "f31d23y6234-bsd964-4sds9cf-a265-e8e0068ee1be",
+  },
+  {
+    position: {
       lat: 51.58204158217422,
       lng: -0.03257580142278221,
     },
